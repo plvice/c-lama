@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ConsoleApp2
+namespace Grades
 {
     [TestClass]
     public class GradeBookTest
